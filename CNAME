@@ -1,2 +1,1 @@
-$ dig example.com +nostats +nocomments +nocmd
 CreateBrowser.github.io.   3600  IN  A 185.199.108.153
