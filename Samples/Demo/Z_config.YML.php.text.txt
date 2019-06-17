@@ -1,0 +1,105 @@
+# _config.yml
+
+www:
+  octodns:
+    cloudflare:
+      proxied: true
+  ttl: 1
+  type: CNAME
+  value: ctl7npvbmtnt.createbrowser.github.io.gv-ydzrcrlst5zt3s.dv.googlehosted.com.
+
+# _config.yml
+# www:
+#   octodns:
+#    cloudflare:
+#      proxied: true
+#  ttl: 6000
+#  type: TXT
+#  value: _github-challenge-CreateBrowser.createbrowser.github.io.
+############################
+
+
+#port: 4000 #80
+#host: 0.0.0.0 #127.0.0.1
+
+
+#favicon:     #put a path like: "img/favicon.ico"
+#touch_icon:  #put a path like: "img/apple-touch-icon.png"
+#google_analytics_key: "UA-20399334-3"
+#name-image: "img/name-transparent.png"
+#logo: "img/logo-transparent.png"
+
+#If URL matches: http://*createbrowser.github.io/*
+#Then settings are: "Always Use HTTPS"
+
+############################
+
+# mesmtp._domainkey:
+#  ttl: 600
+#  type: TXT
+#  value: ctl7npvbmtnt.createbrowser.github.io.gv-ydzrcrlst5zt3s.dv.googlehosted.com
+ 
+# teams:
+#  octodns:
+#    cloudflare:
+#      proxied: true
+#  ttl: 1
+#  type: CNAME
+#  value: ctl7npvbmtnt.createbrowser.github.io.gv-ydzrcrlst5zt3s.dv.googlehosted.com.
+
+# www.teams:
+#  octodns:
+#    cloudflare:
+#      proxied: true
+#  ttl: 1
+#  type: CNAME
+#  value: ctl7npvbmtnt.createbrowser.github.io.gv-ydzrcrlst5zt3s.dv.googlehosted.com.
+  
+# dashboard:
+#  octodns:
+#    cloudflare:
+#      proxied: true
+#  ttl: 1
+#  type: CNAME
+#  value: jekyll-dashboard.herokuapp.com.
+
+# www:
+#  type: CNAME
+#  value: jekyll.github.io.
+
+# ctl7npvbmtnt.createbrowser.github.io.
+# gv-ydzrcrlst5zt3s.dv.googlehosted.com
+
+# value: jekyll.github.io.
+# mail:
+#  octodns:
+#    cloudflare:
+#      proxied: true
+#  ttl: 1
+#  type: A
+#  values:
+#  - 66.111.4.147
+#  - 66.111.4.148
+  
+  
+# pic._domainkey:
+#  ttl: 600
+#  type: TXT
+#  value: k=rsa\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCeXUl1vOMvfMJWYoNylrDLYOeSNadGsxPJEgc0iYgAVbKhxZXBbiNxlt6lhziENYchiUgPNC2JVK9izmXVLo5uizgBVWaYrLOLFiy4Kb4ewL8uEl2cBlWsuFSmOa+6zx4dErmGXLf4hie0blQ/g1rgg11ll34+1XpGYTjsIDXbHwIDAQAB
+
+
+#hosts:
+#    host1:
+#        ip: 192.0.2.1
+#
+#    host2:
+#        ip: 192.0.2.3
+#
+#    web:
+#        cname: host1.example.com
+#    
+#language: C#
+#
+#notifications:
+#  email:
+#    - Get@No.com
