@@ -4,25 +4,26 @@
 
     <copyright>2019</copyright>
     <version>1.0.0.0</version>
-    <title></title>
     <authors></authors>
+    <title></title>
 
 </metadata>
 
-   //  <files>
-   // <file src="bin\Debug\*.dll" target="lib\net461" />
-  // </files>
+   <files>
+    <file src="" target="" />
+  </files>
 
 </package>
 
-/* {
+/* 
+{
   
   "name": "",
   "version": "1.0",
   "description": "",
   "main": "index.html" 
 
-  // "main": "app/main.js"  
+ <!-- "main": "app/main.js"  -->
 
   },
 
@@ -30,4 +31,5 @@
   "license": ""
 
 }
+
 */
