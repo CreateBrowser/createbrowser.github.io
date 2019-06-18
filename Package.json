@@ -1,13 +1,33 @@
-{
+<?xml version="1.0"?>
+<package  xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata  xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+
+    <copyright>2019</copyright>
+    <version>1.0.0.0</version>
+    <title></title>
+    <authors></authors>
+
+</metadata>
+
+   //  <files>
+   /* <file src="bin\Debug\*.dll" target="lib\net461" /> */
+  // </files>
+
+</package>
+
+/* {
   
   "name": "",
   "version": "1.0",
   "description": "",
-  "main": "index.html"  /* "main": "app/main.js"  */
-
+  "main": "index.html" 
+*/
+  /* "main": "app/main.js"  */
+/*
   },
 
   "author": "",
   "license": ""
 
 }
+*/
