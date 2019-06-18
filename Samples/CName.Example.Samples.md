@@ -1,5 +1,14 @@
-# createbrowser.tk
-www.createbrowser.tk
+# CName.Example.Samples.md
 
 # CNAME
-# CName.Example.Samples.md
+```CNAME
+createbrowser.tk
+www.createbrowser.tk
+```
+
+# URL
+
+```url
+createbrowser.tk
+www.createbrowser.tk
+```
