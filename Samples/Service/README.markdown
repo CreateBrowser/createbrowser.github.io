@@ -1,4 +1,5 @@
 - [x] [FreeDNS.markdown](https://github.com/CreateBrowser/createbrowser.github.io/blob/master/Samples/Service/FreeDNS.markdown)
+***
 
 - # Domain Nameserver Type
 ## Server Type
@@ -7,8 +8,8 @@
 - [x] Custom DNS → Select your own DNS servers. [Learn More →](https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-can-i-changethe-nameservers-for-mydomain?_ga=2.226035923.830261088.1560875727-12853503.1560875727)
    
 ***
-#### Namecheap Basic DNS → ***Nameservers***  
- ### **Records**
+#### Namecheap Basic DNS → ***Nameservers*** →
+#### **Records**
 - [x] → dns1.registrar-servers.com
 - [x] → dns2.registrar-servers.com
    
