@@ -2,13 +2,8 @@
   "name": "",
   "version": "1.0",
   "description": "",
-  "main": "app/main.js",
-  "scripts": {
-    "start": "electron .",
-    "build-win64": "electron-packager . name --platform win32 --arch x64 --overwrite --icon build/icon/icon.ico --out build/outputs/",
-    "build-win32": "electron-packager . name --platform win32 --arch ia32 --overwrite --icon build/icon/icon.ico --out build/outputs/"
+  "main": "app/main.js"
   },
   "author": "",
-  "license": "", 
+  "license": ""
 }
-
