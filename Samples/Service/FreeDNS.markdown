@@ -1,7 +1,7 @@
-[(Namecheap.com) Domains --> FreeDNS](https://www.namecheap.com/domains/freedns)
+> ## Namecheap.com --> [ Domains --> FreeDNS](https://www.namecheap.com/domains/freedns)
 
 
-# CREATEBROWSER.TK
+> ## CREATEBROWSER.TK
 
 
 ### Congratulations! Your domain/subdomain has been added to our FreeDNS service.
@@ -17,4 +17,4 @@
 
 - [x] freedns5.registrar-servers.com
 
-**NOTE that if you are using FreeDNS to minimize downtime during your domain transfer, please follow the instructions** [here](https://www.namecheap.com/support/knowledgebase/article.aspx/582/51/how-do-i-transfer-a-domain-to-namecheap-with-minimal-downtime).
+##### **NOTE that if you are using FreeDNS to minimize downtime during your domain transfer, please follow the instructions** [here](https://www.namecheap.com/support/knowledgebase/article.aspx/582/51/how-do-i-transfer-a-domain-to-namecheap-with-minimal-downtime).
