@@ -1,7 +1,7 @@
 > ## Namecheap.com --> [ Domains --> FreeDNS](https://www.namecheap.com/domains/freedns)
 
 
-> ## createbrowser.tk  | www.createbrowser.tk
+> ## webcreatebrowser.cf  | www.webcreatebrowser.cf 
 
 
 ### Congratulations! Your domain/subdomain has been added to our FreeDNS service.
