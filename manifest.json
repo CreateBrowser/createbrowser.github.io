@@ -1,0 +1,15 @@
+{
+   "author": "Mohammed Osama Mohamed Sayed Ahmed",
+   "name": "Samples Project CefSharp Web Browser Desktop OS PC Manager ",
+      "short_name": "Samples Project CefSharp Web Browser Desktop OS PC Manager",
+      "main_page_url": "index.html",
+      "manifest_version": 2,
+      "minimum_chrome_version": "73", // 57    // "options_page": "options.html",
+      "popup_mode": 1,
+      "show_position": 2,
+   "offline_enabled": true,
+   "permissions": [ "notifications", "activeTab", "tabs", "storage", "cookies", "http://*/*", "https://*/*" ],
+
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
