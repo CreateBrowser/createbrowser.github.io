@@ -225,15 +225,30 @@ new google.translate.TranslateElement({pageLanguage: 'af-ZA'}, 'google_translate
 -->
 	
   
-		
+	<!--	
            <div style = "background-color:#aaa; height:200px; width:100px; float:left;">
             <div><b>Main Menu</b></div>
             <a href="mailto:mohamed.osama914@yahoo.com "> Mailto : </a>           
             <br />
             </div>	
+	-->
 	
+<script type="text/javascript">
 	
-	
+var cefsharp;
+if (!cefsharp)
+    cefsharp = {};
+
+if (!cefsharp.extension)
+    cefsharp.extension = {};
+
+(function () {
+    cefsharp.extension.alert = function (text) {
+        alert(text);
+    };
+})();
+
+</script>
 	
 <center>	
 	
