@@ -1,0 +1,368 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html9 class="v2 rifqiyhtml ltr wf-roboto-n3-active wf-roboto-n4-active wf-roboto-n7-active wf-robotoslab-n4-active wf-robotoslab-n7-active wf-fontawesome-n4-active wf-active" dir="ltr" id="rifqiyhtml" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr" xml:lang="ar" xmlns:lang="ar" lang="en">	
+	
+<style id="page-skin-1" type="text/css">
+/*		
+	
+html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+body{margin:0}
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}
+audio,canvas,progress,video{display:inline-block;vertical-align:baseline}
+audio:not([controls]){display:none;height:0}
+[hidden],template{display:none}
+a{background-color:transparent}
+a:active,a:hover{outline:0}
+b,strong{font-weight:bold}
+dfn{font-style:italic}
+h1{font-size:2em;margin:0.67em 0}
+mark{background:#ff0;color:#000}
+small{font-size:80%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-0.5em}
+sub{bottom:-0.25em}
+img{border:0}
+svg:not(:root){overflow:hidden}
+figure{margin:1em 40px}
+hr{-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box;height:0}
+pre{overflow:auto}
+code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}
+button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}
+button{overflow:visible}
+button,select{text-transform:none}
+button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}
+button[disabled],html input[disabled]{cursor:default}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+input{line-height:normal}
+input[type="checkbox"],input[type="radio"]{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0}
+input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto}
+input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}
+input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}
+fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}
+legend{border:0;padding:0}
+textarea{overflow:auto}
+optgroup{font-weight:bold}
+table{border-collapse:collapse;border-spacing:0}
+td,th{padding:0}
+@media print{
+*,*:before,*:after{background:transparent!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}
+a,a:visited{text-decoration:underline}
+pre{border:1px solid #999;page-break-inside:avoid}
+thead{display:table-header-group}
+tr,img{page-break-inside:avoid}
+img{max-width:100%!important}
+p,h2,h3{orphans:3;widows:3}
+h2,h3{page-break-after:avoid}
+select{background:#fff!important}
+.navbar{display:none}
+.btn > .caret,.dropup > .btn > .caret{border-top-color:#000!important}
+.label{border:1px solid #000}
+.table{border-collapse:collapse!important}
+.table td,.table th{background-color:#fff!important}
+.table-bordered th,.table-bordered td{border:1px solid #ddd!important}
+}
+
+	*/ 			
+ 	
+*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;position:relative}
+*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+
+ 
+	
+	
+	
+ /*
+html{font-size:10px;-webkit-tap-highlight-color:rgba(0,0,0,0)}
+html body{font:normal normal 15px 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.42857143;color:#747474;background:#f2f2f2 url(http://2.bp.blogspot.com/-_qpx7bYdvYo/UkTlmKrQqBI/AAAAAAAAJPQ/bLmD4jFhWUU/s1600/bgsqrs1.png) repeat fixed top center;font-weight:300;padding:0}
+*/
+
+	
+	
+/**/	
+	
+	
+  	
+	
+input,button,select,textarea{font-family:inherit;font-size:inherit;line-height:inherit}
+input:focus{outline-color:#2180d6}
+a{color:#2180d6;text-decoration:none}
+a:hover,a:focus{color:#141414;text-decoration:underline}
+a:visited{color:#989898}
+figure{margin:0}
+ 	
+	
+	 
+	
+	
+img{vertical-align:middle}
+p{margin:0 0 10.5px}
+.section,.widget,.widget ul,.widget li{margin:0;padding:0}
+.widget{line-height:inherit}
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,.PopularPosts .item-title,.heading-text,.sidebartabs .tab-wrapper{font:normal normal 100% 'Roboto Slab',serif;line-height:1.2em;color:inherit;font-weight:400}
+h1,.h1,h2,.h2,h3,.h3{margin-top:21px;margin-bottom:10.5px}
+h4,.h4,h5,.h5,h6,.h6{margin-top:10.5px;margin-bottom:10.5px}
+h1,.h1{font-size:30px}
+h2,.h2{font-size:24px}
+h3,.h3{font-size:22px}
+h4,.h4{font-size:19px}
+h5,.h5{font-size:17px}
+h6,.h6{font-size:16px}
+.clear{clear:both}
+.clearfix:before,.clearfix:after,.row:before,.row:after,.container:before,.container:after,.wrap:before,.wrap:after,.mywidget:after{content:" ";display:table}
+.clearfix:after,.container:after,.row:after,.wrap:after,.mywidget:after{clear:both}
+.blog-feeds,.widget-item-control,.item .homepost,.static_page .homepost,.ticker-area .widget > h2 .arrow,.hot .arrow,.links-content > h2 a .arrow{display:none!important}
+svg{position:absolute;top:0;left:0;width:100%;height:100%}
+circle{fill:rgba(255,255,255,0.1)}
+.cir{border-radius:2000px}
+.btn{cursor:pointer}	 	
+a,.post-type,.owl-nav div{-webkit-transition:all 0.3s ease;-moz-transition:all 0.3s ease;-ms-transition:all 0.3s ease;-o-transition:all 0.3s ease;transition:all 0.3s ease}
+.posts-title,.postdate,.reco-place,.sharesinfo,.index-author-img{-webkit-transition:all 0.6s ease;-moz-transition:all 0.6s ease;-ms-transition:all 0.6s ease;-o-transition:all 0.6s ease;transition:all 0.6s ease}
+.widget{-webkit-transition:opacity 0.6s ease;-moz-transition:opacity 0.6s ease;-ms-transition:opacity 0.6s ease;-o-transition:opacity 0.6s ease;transition:opacity 0.6s ease}
+.Label li:before,.owl-nav div:before,.timeline .content-area:before,.list .items-inner:before,.resbutton:before,blockquote:before,.blog-pager-item a:before,.breakline-place h3:before,.post-body ul li:before,.ticker-controls li:before,.more-button .showlink.active:before,.blog-pager-item .pager-isi > span:before,.mybreakline .content-area:before{line-height:inherit;display:inline-block;font-family:FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.fa{line-height:inherit}
+.widget-content{padding:10px}
+blockquote{padding-left:40px;opacity:0.9;font-size:100%;font-style:italic}
+blockquote:before{content:"\f10d";position:absolute;left:0;font-size:30px;top:-10px;opacity:0.7;width:33px;font-style:normal}
+.rtl blockquote:before{content:"\f10d"}
+::selection{background:#2180d6;color:#FFF;text-shadow:none}
+::-moz-selection{background:#2180d6;color:#FFF;text-shadow:none}
+.src-mark,.review-place{background:#2180d6;color:#FFF;text-shadow:none}
+.hide,.summary-content img,.summary-content iframe,.summary-content div,.loadinghtml .summary-content,.icons-whatsapp,.sidebartabs .widget.tab-content > h2,.feed-proc h2,.post-type .fa,.ticker-area .loader,.hover-info,.slider h2,.list .items .thumb-outer,.list .items .metainfo,.gallery .h3,.gallery .postdate,.timeline .wid-date .fa,.video .post-type,.mbig .first-item:first-child .psummary,.show-popup-res:before,.comments > #blogger_cm,.error_page .sidebar-area,.error_page .main-area,.newsticker .postdate,.hot .postdate,.post-featured,.shre-ct.a0,.fbig1 a.readmorebut,.blogpost-setting .widget,.index-post .icons-linkedin,.index-post .icons-pinterest,.fbig2 .readmorebut,.showsummary .readmorebut,.featured4 .owl-item .rcptags,.grid .mr-info{display:none}
+.show,.list .summary-content,.menu-desc,.postdate *,.list .metainfo,.wasupport .icons-whatsapp,.post-type .fa:first-child,.timeline .psummary,.contact-sec.fadeIn,.sidebar .hot.fadeIn > h2,.showsummary .psummary,.bigpost .table-cell,.halfpost .table-cell{display:block}
+.widget{margin-bottom:15px}
+.widget ul,.widget li{margin:0;list-style:none;padding:0}
+.absolute,.menu li ul,.menu li ul:before{position:absolute}
+.no-trans{-webkit-transition:none;-moz-transition:none;-ms-transition:none;-o-transition:none;transition:none}
+.clear{clear:both}
+ 	
+	
+    </style>
+    <link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=1474696453230985516&amp;zx=386dfdeb-a735-421a-8dc0-a3e9236dc427" media="all" onload="if(media!='all')media='all'" rel="stylesheet">
+    <noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=1474696453230985516&amp;zx=386dfdeb-a735-421a-8dc0-a3e9236dc427' rel='stylesheet'/> </noscript>
+	
+</html9>
+	
+	
+
+	
+<!--  -->
+
+	  
+
+<!--  
+
+-->
+	
+		
+		  	
+ <!--   <center>
+        <div class="mdl-layout--large-screen-only mdl-layout__header-row">
+        <!-- <h3>CefSharp Web Browser Desktop OS Project PC Manager</h3> -->
+	<!--
+        </div>
+        <div class="mdl-layout--large-screen-only mdl-layout__header-row">
+        </div>
+         <p>
+         <br>
+         <strong>
+        </center>	-->	 
+	
+<!--
+
+
+<style>
+  html { background:#ffffff; /* background:#202050; */
+	font-family:CentSchbook Mono BT, Bitstream Vera Sans Mono, monofont, monospace;
+  }
+body { /* background:#ddd; */ background:#ffffff; width:600px; border:10px  /* solid #fff; */ solid #ffffff;  margin:2em auto; padding:2em }
+
+
+	  
+/*	  
+h1 {
+  font-size:200px;
+  line-height:1;
+  font-family:"gubblebum-blocky", monospace;
+  color:#f00;
+  text-align:center;
+  padding:0;
+  margin:0 auto;
+  text-indent:-999em;
+  height:102px;
+  width:519px;
+  
+*/
+	  
+	  
+ /*  background:url(npm.png) center;  */ 
+	
+	/*
+}
+h2 {
+  color:#202050;
+  font-size:100%;
+}
+p, ul, ol { margin:1em 0 0; padding:0 }
+li { list-style-position:inside }
+a { color:#f00; text-decoration:none; }
+a:hover { text-decoration:underline; }
+code { background:#fff ; outline: 1px solid #ccc; padding:0 2px; }
+
+	  
+	  
+
+	
+
+	  
+@font-face {
+	font-family:monofont;
+	src: url(http://foohack.com/tpl/fonts/Bitstream-Vera-Sans-Mono/VeraMono.ttf) format("truetype");
+}
+@font-face {
+	font-family:monofont;
+	font-style:italic;
+	src: url(http://foohack.com/tpl/fonts/Bitstream-Vera-Sans-Mono/VeraMoIt.ttf) format("truetype");
+}
+@font-face {
+	font-family:monofont;
+	font-weight:bold;
+	src: url(http://foohack.com/tpl/fonts/Bitstream-Vera-Sans-Mono/VeraMoBd.ttf) format("truetype");
+}
+@font-face {
+	font-family:monofont;
+	font-style:italic;
+	font-weight:bold;
+	src: url(http://foohack.com/tpl/fonts/Bitstream-Vera-Sans-Mono/VeraMoBI.ttf) format("truetype");
+}
+</style>
+*/
+-->
+
+<!--
+
+                   index.chtml
+                   index.html
+
+  <div class="main-explain-area jumbotron">
+  <div class="get-started-wrap">
+  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/mohamedosama914/beautiful-jekyll#readme">Get Started!</a>
+  </div>
+
+
+
+
+    <!-- Web Application Manifest -->
+  <!--  <link rel="manifest" href="https://raw.githubusercontent.com/google/web-starter-kit/master/app/manifest.json">	  -->
+	  
+    <!-- Tile icon for Win8 (144x144 + tile color) -->
+    <!-- <meta name="msapplication-TileImage" content="https://raw.githubusercontent.com/google/web-starter-kit/master/app/images/touch/ms-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#2F3BA2">
+-->
+	  
+    <!-- Add to homescreen for Chrome on Android -->
+  <!--
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="CefSharp Web Browser Desktop OS Project PC Manager">
+    <link rel="icon" sizes="192x192" href="https://raw.githubusercontent.com/google/web-starter-kit/master/app/images/touch/chrome-touch-icon-192x192.png">
+	  
+	  
+    <!-- Material Design icons -->
+    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    <!-- Material Design Lite page styles:
+    You can choose other color schemes from the CDN, more info here http://www.getmdl.io/customize/index.html
+    Format: material.color1-color2.min.css, some examples:
+    material.red-teal.min.css
+    material.blue-orange.min.css
+    material.purple-indigo.min.css
+    -->
+    <!-- <link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.indigo-pink.min.css">
+
+    <!-- Your styles -->
+    <!-- <link rel="stylesheet" href="https://raw.githubusercontent.com/google/web-starter-kit/master/app/styles/main.css"> 
+
+	  
+
+
+
+-->
+
+	
+<!-- 
+<meta charset="utf-8">  http-equiv="Content-Type" content="application/json"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-site-verification" content="gxg14u9TMvNpjfa1mkNz2AojDo4LwK0YnJCQEtAnA80" /> 
+
+ 	
+<meta name="description" content="">
+<meta property="og:locale" content="en_US" />
+-->
+
+<!--  en-EG -->
+<!-- <title> CefSharp Web Browser Desktop OS Project PC. </title> -->
+<!-- <meta name="google-site-verification" content="google-site-verification=D99JB0fphAoiCAfhfHlNXeEL6deiIwFtdR1n5HPH5Fs" /> -->	
+<!-- <meta name="google-site-verification" content="google-site-verification=Qt1Ll9bJabbc90nnKFHhKbfOab5-RoSgfdR8fv0K0UI">  -->
+<!-- <meta title> <h1> CefSharp Web Browser Desktop OS Project PC </h1> </title> -->
+
+	
+<!--
+<head>
+<meta charset="UTF-8" http-equiv="Content-Type" content="text/html">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui, shrink-to-fit=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="white">
+<meta name="mobile-web-app-capable" content="yes">
+<meta property="og:locale" content="en_US" />
+<title>CefSharp Web Browser Desktop OS Project PC Manager</title>
+<meta name="google-site-verification" content="gxg14u9TMvNpjfa1mkNz2AojDo4LwK0YnJCQEtAnA80" />
+-->
+
+	
+<!-- <meta property="test:githuburl" content="http://createbrowser.github.io">
+<meta property="test:url" content="http://createbrowser.github.io">
+<meta property="test:baseurl" content="/index.html">                                  -->	
+
+
+<!-- 
+<meta property="og:locale:alternate" content="ar_EG" />
+<meta property="og:locale:alternate" content="zh_HK"
+<meta name="application-name">
+<meta name="robots" content="NOODP">
+<meta name="theme-color" content="#009cde" />
+<meta type="application/json" http-equiv="Content-Type" content="application/json">
+<meta property="og:title" content="Send Money, Pay Online or Set Up a Merchant Account - PayPal"><meta property="og:image" content="https://www.paypalobjects.com/webstatic/icon/pp258.png">
+
+-->
+
+<!--  <meta name="google-site-verification" content="D99JB0fphAoiCAfhfHlNXeEL6deiIwFtdR1n5HPH5Fs" />	 -->
+	
+
