@@ -106,7 +106,7 @@ cmd
 Windows 8.1 (Chrome/74.0.3729.169)
 "(32-bit)Version73.0.3683.75(2019-06-12)\CefSharpBrowser.exe"
 
-cmd 
+cmd
 
 (32-bit)Version73.0.3683.75(2019-06-12)/CefSharpBrowser.exe --no-activate --off-screen-rendering-enabled --user-agent="Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Mobile Safari/537.36"
 
